@@ -1,7 +1,4 @@
-from signal import pause
-from urllib.parse import urlparse
 import requests
-import os
 
 print('WebMan Mod Python Commands By Boxuga')
 PS3IP = input('Please enter PS3 IP Address? ')
